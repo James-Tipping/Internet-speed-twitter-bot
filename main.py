@@ -71,7 +71,6 @@ class InternetSpeedTwitterBot:
 Speed test conducted in Shenzhen recorded speeds of:
 Upload: {self.up}
 Download: {self.down}
-#wannaflixvpn #wannaflix
         """
 
         text_box = self.driver.find_element_by_css_selector(".public-DraftStyleDefault-block")
